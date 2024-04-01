@@ -8,5 +8,6 @@ namespace Word_02
 {
     internal class Test
     {
+        Console.WriteLine("Caeść Andrzej");
     }
 }
